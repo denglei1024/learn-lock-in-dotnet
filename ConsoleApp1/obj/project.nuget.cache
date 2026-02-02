@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhFOgrZjHWw=",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\BSI\\code\\github\\denglei1024\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "D:\\nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "D:\\nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "D:\\nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
