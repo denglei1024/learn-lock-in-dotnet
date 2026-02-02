@@ -55,3 +55,5 @@ nunit-*.xml
 
 # rider 
 .idea/
+
+*.user
